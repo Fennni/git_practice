@@ -3,4 +3,11 @@ I like you
 I add this changes
 
 for x in y:
+<<<<<<< HEAD
 	print("Hello world!")
+=======
+	print("Hello world!")
+
+
+We do in a new branch feature
+>>>>>>> feature
