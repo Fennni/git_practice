@@ -1,3 +1,6 @@
 Hello world!
 I like you
 I add this changes
+
+for x in y:
+	print("Hello world!")
